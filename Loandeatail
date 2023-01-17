@@ -2,3 +2,11 @@ this is loan details page
 <h1>This is heading 1</h1>
 <h2>This is heading 2</h2>
 <h3>This is heading 3</h3>
+
+this is new code by adding practice use
+<tr>
+        <td>&#x100;</td>
+        <td>A with macron (line above)</td>
+        <td>Latin Extended-A character, not present in all fonts</td>
+    </tr>
+
